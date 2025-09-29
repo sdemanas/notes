@@ -1,2 +1,3 @@
 # notes
-Notes on a variety of CompSci Topics
+
+- [Git Comments](git-good-comments.md)
